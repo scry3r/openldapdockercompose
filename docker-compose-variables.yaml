@@ -6,6 +6,6 @@ services:
       LDAP_DOMAIN: "host1.local"
       LDAP_ADMIN_PASSWORD: "max"
       LDAP_READONLY_USER: "true"
-      LDAP_BASE_DN: "dc=cedille,dc=ens,dc=etsmtl,dc=ca"
+      LDAP_BASE_DN: "dc=host1,dc=local"
       LDAP_READONLY_USER_USERNAME: readonly
       LDAP_READONLY_USER_PASSWORD: readonly
