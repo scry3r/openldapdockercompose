@@ -1,1 +1,1 @@
-# openldapdockercompose
+# openldap docker-compose
